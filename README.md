@@ -21,4 +21,4 @@ I am running my code in the cloud, so it is always running in the background.
 5. time
 
 # License
-- [MIT License](https://github.com/Solyyy/iss_overhead_notifier/blob/main/LICENSE.TXT)
+- [MIT License](https://github.com/Solyyy/iss_overhead_notifier/blob/main/LICENSE.txt)
