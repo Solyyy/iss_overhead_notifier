@@ -8,6 +8,7 @@ Use [latlong.net](https://www.latlong.net/) to find your city's latitude and lon
 I am running my code in the cloud, so it is always running in the background.
 
 # Usage Example
+The code runs every 60 seconds and we got a hit at 5 AM.
 ![This is an image](https://i.imgur.com/WaPBYUy.png)
 
 # Built with
