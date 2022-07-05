@@ -5,8 +5,8 @@ import time
 
 starttime = time.time()
 
-MY_LAT = 52.160114
-MY_LONG = 4.497010
+MY_LAT = "Insert your Latitude here."
+MY_LONG = "Insert your Longitude here."
 
 MY_EMAIL = "Enter your dummy email here"
 MY_PASSWORD = "Enter your dummy password here"
